@@ -24,7 +24,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+A Gym Api using Nest JS and MongoDB
 
 ## Installation
 

@@ -1,5 +1,5 @@
 import { Module } from '@nestjs/common';
-import { MongoModule } from 'src/infra/mongo-db/mongo.module';
+import { MongoModule } from 'src/infra/driven/mongo-db/mongo.module';
 import { UserController } from './controllers/user.controller';
 import { UserService } from 'src/domain/services/user.service';
 

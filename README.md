@@ -24,7 +24,7 @@
 
 ## Description
 
-A Gym Api using Nest JS and MongoDB
+A Gym Api using Nest JS and MongoDB with Clean Archteture
 
 ## Installation
 

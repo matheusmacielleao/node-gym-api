@@ -1,7 +1,7 @@
-import { MuscleType } from './muscle';
+import { MuscleGroup } from './muscle';
 
 export interface Exercice {
   name: string;
   tutorial_video: string;
-  muscle: MuscleType;
+  muscle: MuscleGroup;
 }

@@ -1,6 +1,5 @@
 import { Instructor } from '../people/instructor';
 import { User } from '../people/user';
-import { Exercice } from './exercice';
 
 export interface Workout {
   date: string;
@@ -16,7 +15,7 @@ export interface Workout {
 }
 
 export interface WorkoutSerie {
-  exercice: Exercice;
+  exercice: string;
   reps: number;
   series: number;
 }
